@@ -5,5 +5,7 @@ GUI made with Java Swing.
 Automatically timestamps the email header. 
 
 Dependencies
+
 ->JavaMail
+
 ->JavaActivation
